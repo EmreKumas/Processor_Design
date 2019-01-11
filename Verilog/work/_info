@@ -1,0 +1,251 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog
+vALU
+Z1 !s110 1545713828
+!i10b 1
+!s100 Y1N5Zh_?SMXTED<eLb`7^0
+I^KdXX5=F1Ho>G@7WihiLX2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1545684791
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/ALU.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/ALU.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1545713828.000000
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/ALU.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vComparator
+R1
+!i10b 1
+!s100 @Bb_@6?9n>2KOKHT7=?h40
+IHXnS95RkiPiBhEa6IkEK60
+R2
+R0
+w1545704225
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Comparator.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Comparator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Comparator.v|
+!s101 -O0
+!i113 1
+R5
+n@comparator
+vControl_Unit
+R1
+!i10b 1
+!s100 >kgE<0eTMTj7h[DLaDX_z0
+IRbbDVfJBAFz3g9cGD7hGN2
+R2
+R0
+w1545699927
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Control_Unit.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Control_Unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Control_Unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Control_Unit.v|
+!s101 -O0
+!i113 1
+R5
+n@control_@unit
+vData_Memory
+R1
+!i10b 1
+!s100 EABV4aU3A4dWj@F39IFWF2
+IJQC5ggi;<HfAA`:1NE_`n2
+R2
+R0
+w1545705767
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Data_Memory.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Data_Memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Data_Memory.v|
+!s101 -O0
+!i113 1
+R5
+n@data_@memory
+vDecoder_3_to_8
+R1
+!i10b 1
+!s100 9l<V5>LXXifURd;gj2nbP0
+I0iZ6]^A<Q<Izn5kIG2T562
+R2
+R0
+w1545662381
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_3_to_8.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_3_to_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_3_to_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_3_to_8.v|
+!s101 -O0
+!i113 1
+R5
+n@decoder_3_to_8
+vDecoder_4_to_16
+R1
+!i10b 1
+!s100 6af[WLNfjU9GPFLGzAzD50
+IE?=S7UJ[4`;<=`lbY5`Bm0
+R2
+R0
+w1545677281
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_4_to_16.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_4_to_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_4_to_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Decoder_4_to_16.v|
+!s101 -O0
+!i113 1
+R5
+n@decoder_4_to_16
+vInstruction_Memory
+R1
+!i10b 1
+!s100 <WZd]iHLF8AQ5Se;HET3j1
+IJXi@_jlb<^mVERWDK2;QS3
+R2
+R0
+w1545705779
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Instruction_Memory.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Instruction_Memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Instruction_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Instruction_Memory.v|
+!s101 -O0
+!i113 1
+R5
+n@instruction_@memory
+vJump_Condition_Checker
+Z6 !s110 1545713829
+!i10b 1
+!s100 1>VbG3><Zm]Wc[W=fY0>l2
+Ij[Re]G;Y1aIS1VYNI2jf11
+R2
+R0
+w1545704253
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Jump_Condition_Checker.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Jump_Condition_Checker.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1545713829.000000
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Jump_Condition_Checker.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Jump_Condition_Checker.v|
+!s101 -O0
+!i113 1
+R5
+n@jump_@condition_@checker
+vmain
+R6
+!i10b 1
+!s100 lQ31zKWle`7eazZ?M[X6G3
+In=0gK@;>@6G:gBi<XakJE1
+R2
+R0
+w1545708273
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/main.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/main.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/main.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/main.v|
+!s101 -O0
+!i113 1
+R5
+vMux_16
+R6
+!i10b 1
+!s100 _e?[^]iWV]@NK_5?ZdAB@3
+Iee>2BmSmeXicBj:<JAo8[1
+R2
+R0
+w1545677493
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Mux_16.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Mux_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Mux_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Mux_16.v|
+!s101 -O0
+!i113 1
+R5
+n@mux_16
+vRegister_File
+R1
+!i10b 1
+!s100 4hi?jiHLA3K=e931U:<gV2
+IdeVkNb=]J0jOW2NW7D_BP1
+R2
+R0
+w1545704204
+8C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Register_File.v
+FC:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Register_File.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Emre/Desktop/Dersler/Digital Logic Design/Proje/150115024_150116828/Verilog/Register_File.v|
+!s101 -O0
+!i113 1
+R5
+n@register_@file
